@@ -12,7 +12,7 @@
 
 **行远自迩，登高自卑，与君共勉。文以载道，歌以咏志。**
 
-### [](https://github.com/Hyacinth-xu/blog#奇文共欣赏疑义相与析持续更新)**[奇文共欣赏，疑义相与析。](https://github.com/Hyacinth-xu/blog)(持续更新)**
+### [](https://github.com/Hyacinth-xu/blog#奇文共欣赏疑义相与析持续更新)**[奇文共欣赏，疑义相与析。](https://github.com/Hyacinth-xu/blog/issues/1)(持续更新)**
 
 ## [](https://github.com/Hyacinth-xu/blog#2018)2019
 
